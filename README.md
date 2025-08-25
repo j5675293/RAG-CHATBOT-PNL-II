@@ -235,7 +235,7 @@ EDUCACIÓN:
 ```env
 # LLM Configuration
 GROQ_API_KEY=tu_groq_key
-MODEL_NAME=mixtral-8x7b-32768
+MODEL_NAME=llama3-70b-8192
 TEMPERATURE=0.1
 MAX_TOKENS=1024
 
