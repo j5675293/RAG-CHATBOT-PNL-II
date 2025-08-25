@@ -1,6 +1,8 @@
-# 🎓 RAG Chatbot para CVs de Estudiantes
+# 🎓 RAG Chatbot para CVs 
 
 Sistema de generación de texto aumentada por recuperación (RAG) que permite consultar información de currículums vitae de estudiantes usando inteligencia artificial.
+
+[Video de demostración del proyecto](https://drive.google.com/file/d/1My6rqdy_3eagCAvFpgDhFyG548A9lkDl/view?usp=sharing)
 
 ## 🚀 Características
 
@@ -11,10 +13,10 @@ Sistema de generación de texto aumentada por recuperación (RAG) que permite co
 - **Interface Web Moderna**: Built con Streamlit
 - **Análisis de Consultas**: Clasificación automática usando regex y patterns
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías aplicadas
 
 - **Frontend**: Streamlit
-- **LLM**: Groq (Mixtral-8x7b)
+- **LLM**: Groq (llama3-70b-8192)
 - **Framework**: LangChain
 - **Vector Store**: Pinecone / FAISS
 - **Embeddings**: Sentence Transformers
@@ -351,13 +353,9 @@ El sistema proporciona:
 4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
 5. Crea un Pull Request
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver archivo [LICENSE](LICENSE) para detalles.
-
 ## 👥 Autores
 
-- **Tu Nombre** - *Desarrollo inicial* - [TuGitHub](https://github.com/tuusuario)
+- **JUAN RUIZ OTONDO** - *PRIMER AGENTE* - [https://github.com/j5675293/RAG-CHATBOT-PNL-II)
 
 ## 🙏 Agradecimientos
 
@@ -366,12 +364,6 @@ Este proyecto está bajo la Licencia MIT - ver archivo [LICENSE](LICENSE) para d
 - Streamlit por la interfaz web
 - Pinecone por el almacén vectorial
 - Sentence Transformers por los embeddings
-
-## 📞 Soporte
-
-- 📧 Email: tu.email@dominio.com
-- 💬 Issues: [GitHub Issues](https://github.com/tuusuario/rag-chatbot/issues)
-- 📚 Docs: [Documentación](https://github.com/tuusuario/rag-chatbot/wiki)
 
 ---
 
