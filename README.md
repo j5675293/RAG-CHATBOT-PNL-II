@@ -1,5 +1,7 @@
 # 🎓 RAG Chatbot para CVs 
 
+![](assets/85169a10-bb3a-4487-8a47-ef9e76d91587)
+
 Sistema de generación de texto aumentada por recuperación (RAG) que permite consultar información de currículums vitae de estudiantes usando inteligencia artificial.
 
 [Video de demostración del proyecto](https://drive.google.com/file/d/1My6rqdy_3eagCAvFpgDhFyG548A9lkDl/view?usp=sharing)
